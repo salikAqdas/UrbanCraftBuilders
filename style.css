@@ -215,6 +215,9 @@ footer img {
     height: 30px;
     vertical-align: middle;
 }
+.social-media div div{
+    padding:10px;
+}
 @media (max-width: 768px){
     .social-media{
         display: flex;
