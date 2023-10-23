@@ -215,3 +215,10 @@ footer img {
     height: 30px;
     vertical-align: middle;
 }
+@media (max-width: 768px){
+    .social-media{
+        display: flex;
+        justify-content: center;
+        flex-direction: column;
+    }
+}
